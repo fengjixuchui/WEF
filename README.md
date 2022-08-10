@@ -1,34 +1,45 @@
 
--------------------------------------------------
-
 # 📡 WiFi Exploitation Framework 📡
 
-A fully offensive framework to the 802.11 networks and protocols with different types of attacks for WPA and WEP, automated hash cracking, bluetooth hacking and much more.
-
-- I recommend you my alfa adapter: **Alfa AWUS036ACM**, which works really great with both, 2.4 and 5 Ghz
+A fully offensive framework to the 802.11 networks and protocols with different types of attacks for WPA/WPA2 and WEP, automated hash cracking, bluetooth hacking and much more.
 
 Tested and supported in **Kali Linux**, **Parrot OS**, **Arch Linux** and **Ubuntu**
 
 *\*However it's not finished and may have issues, try it at your own risk.\**
 
-* If you have any doubt, please contact me or create a issue *
+- I recommend you my alfa adapter: **Alfa AWUS036ACM**, which works really great with both, 2.4 and 5 Ghz
+
+- If you have any doubt, please contact me or create a issue
 
 ## ⭕ SUPPORTED ATTACKS:
 
-- Deauthentication Attack
-- Authentication Attack
-- Beacon Flood Attack
-- PMKID Attack
-- EvilTwin Attack 
-- Passive/Stealthy Attack
-- Pixie Dust Attack
-- Null Pin Attack
-- Chopchop Attack
-- Replay Attack
-- Michael Exploitation Attack
-- Caffe-Latte Attack
-- Jamming, Reading and Writing bluetooth connections
-- GPS Spoofing with HackRF 
+:ballot_box_with_check: Deauthentication Attack
+
+:ballot_box_with_check: Authentication Attack
+
+:ballot_box_with_check: Beacon Flood Attack
+
+:ballot_box_with_check: PMKID Attack
+
+:ballot_box_with_check: EvilTwin Attack 
+
+:ballot_box_with_check: Passive/Stealthy Attack
+
+:ballot_box_with_check: Pixie Dust Attack
+
+:ballot_box_with_check: Null Pin Attack
+
+:ballot_box_with_check: Chopchop Attack
+
+:ballot_box_with_check: Replay Attack
+
+:ballot_box_with_check: Michael Exploitation Attack
+
+:ballot_box_with_check: Caffe-Latte Attack
+
+:ballot_box_with_check: Jamming, Reading and Writing bluetooth connections
+
+:ballot_box_with_check: GPS Spoofing with HackRF 
 
 ## ⭕ FEATURES:
 
@@ -99,9 +110,9 @@ Checkout the [Wiki](https://github.com/D3Ext/WEF/wiki/Installation)
 
 <img src="https://raw.githubusercontent.com/D3Ext/WEF/main/images/wef-demo.png">
 
-### ⚪ Created by D3Ext
 
-> Extra
+### ⚪ Specials thanks to [ultrazar](https://github.com/ultrazar) who helped me a lot
+
 
 **If you are using bspwm, you can add this line to your bspwmrc for launching the *xterm* windows always beeing in floating mode** (for a prettier design)
 
